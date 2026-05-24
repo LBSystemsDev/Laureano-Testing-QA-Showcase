@@ -9,7 +9,7 @@ Soy Laureano, un apasionado del testing de software con enfoque en calidad y exp
 - ✅ Pruebas manuales (casos, bugs, checklists)
 - ✅ Testing de APIs con Postman  
 - ✅ Consultas SQL para validación de datos
-- 🚀 Automatización en progreso (Python + Selenium)
+- ✅ Automatización con Selenium (Python)
 
 ## 🎯 Proyecto demostración
 
@@ -21,14 +21,22 @@ Todos los ejemplos están basados en **SauceDemo** (https://www.saucedemo.com/),
 - Me permite mostrar bugs controlados
 
 ## 📂 Estructura del portfolio
+
 Laureano-Testing-QA-Showcase/
-├── README.md # Esta presentación
-├── manual-testing/ # Casos de prueba y bug reports
+├── README.md
+├── manual-testing/
 │ ├── test-cases-login.md
 │ └── bug-report-ejemplo.md
-├── api-testing/ # Colecciones de Postman
-├── sql-queries/ # Consultas SQL para testing
-└── automation/ # Scripts automatizados (próximamente)
+├── api-testing/
+│ ├── README.md
+│ └── Mi-Portfolio-QA-API-Tests.postman_collection.json
+├── sql-queries/
+│ ├── README.md
+│ └── consultas-para-testing.sql
+└── automation/
+├── README.md
+├── login_automation.py
+└── requirements.txt
 
 
 ## 🛠️ Herramientas que domino
@@ -39,14 +47,21 @@ Laureano-Testing-QA-Showcase/
 | **Bug tracking** | GitHub Issues, Jira, Trello |
 | **API Testing** | Postman |
 | **SQL** | Consultas SELECT, UPDATE, JOIN |
-| **Automatización** | Python, Pytest (en aprendizaje) |
+| **Automatización** | Python, Selenium, Pytest |
 
 ## 📫 Contacto
 
-- **LinkedIn:** [linkedin.com/in/laureano](https://linkedin.com/in/laureano) *(actualiza con tu URL)*
-- **Email:** laureano@ejemplo.com *(actualiza con tu email)*
-- **GitHub:** [github.com/Laureano-Testing-QA-Showcase](https://github.com/Laureano-Testing-QA-Showcase)
+- **LinkedIn:** [linkedin.com/in/laureano](https://linkedin.com/in/laureano)
+- **Email:** barrioslaureano03@gmail.com
+- **GitHub:** [github.com/LisysTendo/Laureano-Testing-QA-Showcase](https://github.com/LisysTendo/Laureano-Testing-QA-Showcase)
 
 ---
 
-*⭐ Este portfolio se actualiza constantemente. Próximamente: automatización con Selenium.*
+*⭐ Este portfolio se actualiza constantemente. Automatización agregada con Selenium.*
+
+✅ Cambios que hice:
+Ahora
+🚀 Automatización en progreso (Python + Selenium)	✅ Automatización con Selenium (Python)
+automation/ # Scripts automatizados (próximamente)	Estructura completa con los 3 archivos
+Python, Pytest (en aprendizaje)	Python, Selenium, Pytest
+Próximamente: automatización con Selenium	Automatización agregada con Selenium
