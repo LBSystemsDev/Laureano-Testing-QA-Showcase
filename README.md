@@ -53,9 +53,9 @@ Laureano-Testing-QA-Showcase/
 
 - **LinkedIn:** [linkedin.com/in/laureano-barrios](www.linkedin.com/in/laureano-barrios)
 - **Email:** barrioslaureano03@gmail.com
-- **GitHub:** [github.com/LBSystemsDev/Laureano-Testing-QA-Showcase](https://github.com/LBSystemsDev/Laureano-Testing-QA-Showcase)
+- **GitHub:** [github.com/LBSystemsDev/Laureano-Testing-QA-Showcase](https://github.com/LBSystemsDev/Laureano-Testing-QA-Showcase)    
 **Ubicación:** [Buenos Aires, Argentina]
- 
+
 ---
 
 *⭐ Este portfolio se actualiza constantemente. Automatización agregada con Selenium.*
