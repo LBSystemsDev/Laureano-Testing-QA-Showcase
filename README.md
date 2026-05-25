@@ -53,7 +53,7 @@ Laureano-Testing-QA-Showcase/
 
 - **LinkedIn:** [linkedin.com/in/laureano](https://linkedin.com/in/laureano)
 - **Email:** barrioslaureano03@gmail.com
-- **GitHub:** [github.com/LisysTendo/Laureano-Testing-QA-Showcase](https://github.com/LisysTendo/Laureano-Testing-QA-Showcase)
+- **GitHub:** [github.com/LisysTendo/Laureano-Testing-QA-Showcase](https://github.com/LBSystemsDev/Laureano-Testing-QA-Showcase)
 
 ---
 
