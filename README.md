@@ -51,16 +51,17 @@ Laureano-Testing-QA-Showcase/
 
 ## 📫 Contacto
 
-- **LinkedIn:** [linkedin.com/in/laureano](https://linkedin.com/in/laureano)
+- **LinkedIn:** [linkedin.com/in/laureano-barrios](www.linkedin.com/in/laureano-barrios)
 - **Email:** barrioslaureano03@gmail.com
-- **GitHub:** [github.com/LisysTendo/Laureano-Testing-QA-Showcase](https://github.com/LisysTendo/Laureano-Testing-QA-Showcase)
+- **GitHub:** [github.com/LBSystemsDev/Laureano-Testing-QA-Showcase](https://github.com/LBSystemsDev/Laureano-Testing-QA-Showcase)
+**Ubicación:** [Buenos Aires, Argentina]
 
 ---
 
 *⭐ Este portfolio se actualiza constantemente. Automatización agregada con Selenium.*
 
 ✅ Cambios que hice:
-Ahora
+Antes	Ahora
 🚀 Automatización en progreso (Python + Selenium)	✅ Automatización con Selenium (Python)
 automation/ # Scripts automatizados (próximamente)	Estructura completa con los 3 archivos
 Python, Pytest (en aprendizaje)	Python, Selenium, Pytest
